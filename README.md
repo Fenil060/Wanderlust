@@ -1,31 +1,33 @@
-**Wanderlust**
+# Wanderlust
 
-Wanderlust is a web application that allows travelers to discover and explore destinations around the world. Users can browse curated travel listings, filter destinations based on preferences, and get inspired for their next adventure.
+**Wanderlust** is a web application that helps travelers **discover and explore destinations** around the world. Users can browse listings, filter destinations, and get inspired for their next adventure.  
 
-Features
+---------------------
 
-Browse Destinations: Explore a wide variety of travel destinations.
+## 🌟 Features
 
-Listing Details: View detailed information about each destination, including images, descriptions, and location.
+- Explore a wide variety of destinations with images and descriptions.  
+- View detailed information for each destination.  
+- Search and filter listings by category, region, or popularity.  
+- User authentication with secure sign-up and login.  
+- Authenticated users can add and edit listings.  
+  
+---------------------
 
-Search & Filter: Easily filter listings by categories, popularity, or region.
+## 💻 Tech Stack
 
-User Authentication: Secure sign-up, login, and logout functionalities.
+| Layer           | Technology                  |
+|-----------------|-----------------------------|
+| Frontend        | HTML, CSS, JavaScript, EJS |
+| Backend         | Node.js, Express.js         |
+| Database        | MongoDB                     |
+| Authentication  | Passport.js / JWT           |
+| File Storage    | Cloudinary                  |
+| Utilities       | dotenv, method-override, multer |
 
-Add/Edit Listings: Authenticated users can share new destinations and edit their own listings.
+---------------------
 
-Responsive Design: Works well on desktops, tablets, and mobile devices.
+## ⚙️ Live 
+-https://wanderlust-r0g5.onrender.com
 
-Tech Stack
 
-Frontend: HTML, CSS, EJS (Embedded JavaScript Templates), JavaScript
-
-Backend: Node.js, Express.js
-
-Database: MongoDB
-
-Authentication: Passport.js / JWT (if used)
-
-File Uploads: Cloudinary (for images)
-
-Other Tools: Method-override, dotenv, multer
