@@ -4,7 +4,7 @@
 
 ---------------------
 
-## 🌟 Features
+## 🌟 Features 
 
 - Explore a wide variety of destinations with images and descriptions.  
 - View detailed information for each destination.  
